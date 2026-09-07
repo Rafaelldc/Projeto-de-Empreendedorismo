@@ -1,126 +1,180 @@
-# Projeto-de-Empreendedorismo
-Repositório para o aplicativo baseado no reclama aqui da cadeira de empreendedorismo pra cc
+# 🚨 Projeto de Empreendedorismo
 
-Empreendedorismo All
-Repositório geral de atividades e versões | CCiComp 2026.2
-Visão geral do fluxo de entregas
-Módulo
-Período / data
-Etapa na ordem de produção
-Status
-Versão
-1
-31/08 a 28/09
-Núcleo de Inovação Tecnológica - NIT
-CONCLUÍDO
-1.0
-2
-31/08 a 28/09
-1. Desafio Estratégico
-CONCLUÍDO
-1.0
-2
-31/08 a 28/09
-1. Tema-Insight
-PENDENTE
--
-2
-31/08 a 28/09
-2. Representação Visual
-PENDENTE
--
-2
-31/08 a 28/09
-3. Pesquisa Desk
-PENDENTE
--
-2
-31/08 a 28/09
-4. Matriz CSD
-PENDENTE
--
-2
-31/08 a 28/09
-5. Mapa de Empatia
-PENDENTE
--
-2
-31/08 a 28/09
-6. Guia de Campo
-PENDENTE
--
-3
-02/10 a 30/10
-Brainstorming → Matriz de Priorização → Hipótese de Valor → Protótipo e Feedback
-PENDENTE
--
-4
-06/11 a 11/12
-Matriz de Riscos → Plano de Inovação → Plano de Ação 5W2H
-PENDENTE
--
+> Aplicativo colaborativo para identificação, registro e acompanhamento de problemas urbanos em **Salgueiro - PE**.
 
+Projeto desenvolvido para a disciplina de **Empreendedorismo**, do curso de **Ciência da Computação**, com foco na criação de uma solução tecnológica para problemas enfrentados pela população.
 
+---
 
+## 📌 Sobre o projeto
 
+A proposta consiste no desenvolvimento de um aplicativo inspirado em plataformas de reclamação e participação cidadã.
 
+Através da plataforma, os usuários poderão **registrar, avaliar e acompanhar problemas encontrados na cidade**, contribuindo para a identificação de situações que possam representar riscos ou impactar a população.
 
+A ideia é transformar relatos individuais em **informações organizadas e úteis para a comunidade**, facilitando a visualização dos problemas e incentivando uma resposta mais rápida.
 
+### 🎯 Objetivo
 
+Criar uma ferramenta que permita à população:
 
+* 📍 Registrar problemas encontrados na cidade;
+* 📸 Adicionar informações sobre a ocorrência;
+* ⭐ Avaliar problemas registrados;
+* 🗺️ Visualizar ocorrências;
+* 🔎 Acompanhar problemas já identificados;
+* 📊 Identificar situações recorrentes;
+* 🤝 Participar ativamente da melhoria da cidade.
 
+---
 
-Desafio estratégico
-Módulo 2 | Versão 1.0 | Status: concluído | Data de registro: 04/09/2026
-Histórico de versão
-Versão
-Data
-Alteração
-1.0
-04/09/2026
-Registro inicial do Desafio Estratégico informado pela equipe.
+# 💡 Desafio estratégico
 
+### Pergunta norteadora
 
-Desafio estratégico da equipe
-“Como podemos auxiliar a população de Salgueiro a respeito do estado atual da cidade, através de um aplicativo interativo onde os usuários podem avaliar e informar determinados problemas que estão ocorrendo, visando mitigar os riscos, evitar incidentes antes que aconteçam e resolver estes problemas o quanto antes?”
-Registro da ideia
-A proposta é um aplicativo interativo voltado à população de Salgueiro. Os usuários poderão avaliar e informar problemas que estejam ocorrendo na cidade. A intenção é apoiar a identificação antecipada de riscos, reduzir a possibilidade de incidentes e acelerar a resolução dos problemas comunicados.
-Distinção entre instrução e resposta da equipe
-Instrução da atividade: formular uma pergunta iniciada por “Como podemos...?”, identificar um problema que afete muitas pessoas, manter o foco nas necessidades humanas e considerar as premissas de massa, ficção científica e open source.
-Resposta da equipe: a pergunta registrada acima, centrada na população de Salgueiro e no acompanhamento colaborativo do estado atual da cidade. As tecnologias open source e o elemento futurista ainda deverão ser detalhados nas próximas etapas.
+> **"Como podemos auxiliar a população de Salgueiro a respeito do estado atual da cidade, através de um aplicativo interativo onde os usuários podem avaliar e informar determinados problemas que estão ocorrendo, visando mitigar os riscos, evitar incidentes antes que aconteçam e resolver estes problemas o quanto antes?"**
 
+### 🧠 Nossa proposta
 
+Desenvolver uma plataforma colaborativa na qual a própria população possa contribuir para o mapeamento dos problemas urbanos.
 
+A partir dos dados enviados pelos usuários, o sistema poderá organizar as ocorrências e facilitar a identificação das situações que necessitam de maior atenção.
 
+---
 
+# 🛠️ Funcionalidades planejadas
 
+| Funcionalidade            | Descrição                                | Status      |
+| ------------------------- | ---------------------------------------- | ----------- |
+| 👤 Cadastro de usuário    | Criação e gerenciamento de contas        | 🔴 Pendente |
+| 📍 Registro de ocorrência | Informar problemas encontrados na cidade | 🔴 Pendente |
+| 📸 Evidências             | Adicionar fotos às ocorrências           | 🔴 Pendente |
+| ⭐ Avaliação               | Avaliar e apoiar ocorrências existentes  | 🔴 Pendente |
+| 🗺️ Mapa                  | Visualizar problemas por localização     | 🔴 Pendente |
+| 🔎 Filtros                | Filtrar ocorrências por categoria/status | 🔴 Pendente |
+| 📊 Dashboard              | Visualizar dados e estatísticas          | 🔴 Pendente |
 
+> As funcionalidades serão refinadas durante as próximas etapas do projeto.
 
+---
 
-Núcleo de Inovação Tecnológica NIT
-Módulo 1 | Versão 1.0 | Status: concluído | Data de registro: 04/09/2026
-Histórico de versão
-Versão
-Data
-Alteração
-1.0
-04/09/2026
-Registro inicial do conteúdo do NIT informado pela equipe.
+# 📚 Processo de desenvolvimento
 
+O projeto será desenvolvido seguindo as etapas propostas pela disciplina de **Empreendedorismo**.
 
-Resposta
-1. Sim, nossa universidade possui um campo próprio para trabalhar com patentes e propostas de inovação.
-2. O Núcleo de Inovação Tecnológica tem as seguintes atribuições:
-Zelar pela manutenção da política institucional de estímulo à proteção das criações, licenciamento, inovação e outras formas de transferência de tecnologia;
-Avaliar e classificar os resultados decorrentes de atividades e projetos de pesquisa para o atendimento das disposições desta Lei;
-Avaliar solicitação de inventor independente para adoção de invenção na forma do art. 22;
-Opinar pela conveniência e promover a proteção das criações desenvolvidas na instituição;
-Opinar quanto à conveniência de divulgação das criações desenvolvidas na instituição, passíveis de proteção intelectual;
-Acompanhar o processamento dos pedidos e a manutenção dos títulos de propriedade intelectual da instituição.
-Desenvolver estudos de prospecção tecnológica e de inteligência competitiva no campo da propriedade intelectual, de forma a orientar as ações de inovação da ICT (Institutos de Ciência e Tecnologia);
-Desenvolver estudos e estratégias para a transferência de inovação gerada pela ICT;
-Promover e acompanhar o relacionamento da ICT com empresas, em especial para as atividades previstas nos arts. 6º a 9º;
-Negociar e gerir os acordos de transferência de tecnologia oriunda da ICT.
-Distinção entre instrução e resposta da equipe
-Instrução da atividade: pesquisar na instituição se há Núcleo de Inovação Tecnológica e/ou ambientes de inovação e qual é a política institucional de inovação para empreender.
-Resposta da equipe: o conteúdo desta seção reproduz o registro entregue pela equipe sobre a existência do campo institucional e as atribuições do NIT.
+| Módulo | Período       | Etapa                                                       | Status       | Versão |
+| ------ | ------------- | ----------------------------------------------------------- | ------------ | ------ |
+| 1      | 31/08 → 28/09 | Núcleo de Inovação Tecnológica - NIT                        | 🟢 Concluído | `1.0`  |
+| 2      | 31/08 → 28/09 | Desafio Estratégico                                         | 🟢 Concluído | `1.0`  |
+| 2      | 31/08 → 28/09 | Tema-Insight                                                | 🟡 Pendente  | -      |
+| 2      | 31/08 → 28/09 | Representação Visual                                        | 🟡 Pendente  | -      |
+| 2      | 31/08 → 28/09 | Pesquisa Desk                                               | 🟡 Pendente  | -      |
+| 2      | 31/08 → 28/09 | Matriz CSD                                                  | 🟡 Pendente  | -      |
+| 2      | 31/08 → 28/09 | Mapa de Empatia                                             | 🟡 Pendente  | -      |
+| 2      | 31/08 → 28/09 | Guia de Campo                                               | 🟡 Pendente  | -      |
+| 3      | 02/10 → 30/10 | Brainstorming → Priorização → Hipótese de Valor → Protótipo | 🟡 Pendente  | -      |
+| 4      | 06/11 → 11/12 | Matriz de Riscos → Plano de Inovação → 5W2H                 | 🟡 Pendente  | -      |
+
+---
+
+# 🏛️ Núcleo de Inovação Tecnológica - NIT
+
+**Módulo:** 1
+**Versão:** `1.0`
+**Status:** 🟢 Concluído
+**Data:** 04/09/2026
+
+Foi realizada uma pesquisa sobre a existência de estruturas institucionais relacionadas à inovação e proteção intelectual.
+
+### Resultado
+
+A universidade possui um **Núcleo de Inovação Tecnológica (NIT)** responsável por atividades relacionadas à proteção das criações, inovação, propriedade intelectual e transferência de tecnologia.
+
+Entre suas atribuições estão:
+
+* Proteção das criações desenvolvidas na instituição;
+* Avaliação e classificação de resultados de pesquisas;
+* Apoio a inventores independentes;
+* Promoção da proteção da propriedade intelectual;
+* Acompanhamento de pedidos e títulos de propriedade intelectual;
+* Estudos de prospecção tecnológica;
+* Desenvolvimento de estratégias para transferência de tecnologia;
+* Relacionamento entre a instituição e empresas;
+* Negociação e gestão de acordos de transferência de tecnologia.
+
+---
+
+# 📝 Histórico de versões
+
+| Versão | Data       | Alterações                                                   |
+| ------ | ---------- | ------------------------------------------------------------ |
+| `1.0`  | 04/09/2026 | Registro inicial do Desafio Estratégico e informações do NIT |
+
+---
+
+# 🚧 Roadmap
+
+### 🔹 Fase 1 · Pesquisa
+
+* [x] Pesquisa sobre o NIT
+* [x] Definição do desafio estratégico
+* [ ] Tema e Insight
+* [ ] Pesquisa Desk
+* [ ] Matriz CSD
+* [ ] Mapa de Empatia
+* [ ] Guia de Campo
+
+### 🔹 Fase 2 · Ideação
+
+* [ ] Brainstorming
+* [ ] Matriz de Priorização
+* [ ] Hipótese de Valor
+
+### 🔹 Fase 3 · Prototipação
+
+* [ ] Desenvolvimento do protótipo
+* [ ] Testes com usuários
+* [ ] Coleta de feedback
+* [ ] Iteração do protótipo
+
+### 🔹 Fase 4 · Planejamento
+
+* [ ] Matriz de Riscos
+* [ ] Plano de Inovação
+* [ ] Plano de Ação 5W2H
+
+---
+
+# 💻 Tecnologias
+
+> Tecnologias serão definidas durante a etapa de prototipação.
+
+Possíveis tecnologias:
+
+* **Frontend:** `A definir`
+* **Backend:** `A definir`
+* **Banco de dados:** `A definir`
+* **Mobile:** `A definir`
+* **Design/UI:** `A definir`
+
+---
+
+# 👥 Equipe
+
+Projeto desenvolvido pelos alunos do curso de **Ciência da Computação - CCiComp**.
+
+> Adicione aqui os integrantes da equipe e seus respectivos GitHub.
+
+---
+
+# 📄 Status do projeto
+
+🟡 **Em desenvolvimento**
+
+O projeto encontra-se nas primeiras etapas de pesquisa, definição do problema e validação da ideia. Novas funcionalidades e decisões técnicas serão adicionadas conforme o avanço das etapas da disciplina.
+
+---
+
+## 📜 Licença
+
+Este projeto foi desenvolvido para fins acadêmicos no contexto da disciplina de **Empreendedorismo**.
